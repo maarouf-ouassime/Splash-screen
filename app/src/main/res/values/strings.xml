@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TP2</string>
+    <string name="nom_utilisateur">Nom d\'utilisateur :</string>
+    <string name="mot_de_passe">Mot de passe :</string>
+    <string name="identifier"> S\'IDENTIFER</string>
+    <string name="info_compte_utilisateur">Les informations du compte de l\'utilisateur</string>
+    <string name="bonjour">Bonjour</string>
+    <string name="retour">retour</string>
+    <string name="connexion">connexion</string>
+</resources>
